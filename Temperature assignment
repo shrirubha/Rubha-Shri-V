@@ -3,6 +3,6 @@ temp=random.randint(0,100)
 print("Temperature=",temp)
 hum=random.randint(0,100)
 if temp>25:
-    print("Alarm!")
+    print("Alarm")
 else:
     print("Room temperature is normal")
